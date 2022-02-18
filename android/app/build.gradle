@@ -169,8 +169,8 @@ dependencies {
     implementation project(':react-native-wechat-lib')
     implementation project(':react-native-push-notification')
     implementation project(':react-native-fabric')
-    implementation 'com.google.firebase:firebase-messaging:15.0.2'
-    implementation 'com.google.firebase:firebase-core:15.0.2'
+    implementation 'com.google.firebase:firebase-core:16.0.8'
+    implementation 'com.google.firebase:firebase-messaging:17.6.0'
     implementation project(':@react-native-community_async-storage')
     implementation project(':react-native-fbsdk')
     implementation project(':@cybavo_react-native-wallet-service')

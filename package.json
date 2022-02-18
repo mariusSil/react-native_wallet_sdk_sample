@@ -14,12 +14,10 @@
     "@react-native-community/push-notification-ios": "^1.0.2",
     "bignumber.js": "^9.0.0",
     "jetifier": "1.6.5",
+    "logkitty": "^0.7.1",
     "moment": "^2.24.0",
-    "y18n": "^4.0.1",
     "native-base": "2.12.1",
     "prop-types": "^15.7.2",
-    "logkitty": "^0.7.1",
-    "yargs-parser": "13.1.2",
     "react": "16.11.0",
     "react-art": "16.11.0",
     "react-dom": "16.11.0",
@@ -35,7 +33,7 @@
     "react-native-modal": "^9.0.0",
     "react-native-permissions": "2.1.2",
     "react-native-progress": "^3.6.0",
-    "react-native-push-notification": "3.5.2",
+    "react-native-push-notification": "^8.1.1",
     "react-native-qrcode-scanner": "1.4.1",
     "react-native-qrcode-svg": "^5.1.2",
     "react-native-screens": "2.8.0",
@@ -49,7 +47,10 @@
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
     "redux-persist": "^5.10.0",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "rn-nodeify": "^10.3.0",
+    "y18n": "^4.0.1",
+    "yargs-parser": "13.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
@@ -70,7 +71,7 @@
     "jest-resolve": "^24.5.0",
     "jetifier": "^1.6.4",
     "lint-staged": "^8.1.5",
-    "metro-react-native-babel-preset": "^0.53.0",
+    "metro-react-native-babel-preset": "^0.59.0",
     "prettier": "^1.16.4",
     "pretty-quick": "^1.10.0",
     "react-test-renderer": "16.8.3"
